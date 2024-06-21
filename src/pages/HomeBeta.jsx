@@ -16,7 +16,7 @@ export const HomeBeta = () => {
             transition={{duration: 2}}
             className="bg-gradient-to-r from-red-500 to-pink-500 bg-clip-text p-3 text-5xl font-bold text-transparent sm:text-6xl dark:text-white"
           >
-            Everything Laser Engraving
+            Coin Site
           </motion.h1>
 
           <div>
